@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Mohanaprabha S
-Roll no : 212224040197
+# Name : Mohanaprabha S
+# Roll no : 212224040197
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
